@@ -1,0 +1,17 @@
+.staticFooter {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: #ead6d6;
+    text-align: center;
+}
+
+.staticHeader {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    color: #ead6d6;
+    text-align: center;
+}
